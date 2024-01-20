@@ -1,3 +1,3 @@
 ## Git Tutor
 
-A repository one git lecture
+A repository on git lecture
